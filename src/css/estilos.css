@@ -2,6 +2,7 @@ body{
     color: #ffffff;
     font-family: "Oxanium", cursive;
     background-color: #000000;
+    zoom: 67%;
 }
 
 body::before{
