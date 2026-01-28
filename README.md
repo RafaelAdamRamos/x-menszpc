@@ -1,37 +1,37 @@
-# x‑menszpc
+# x-menszpc
 
-> 🔧 **Projeto**  
-> x‑menszpc é uma aplicação web estática construída com **HTML, CSS e JavaScript**, que demonstra uma interface simples de conteúdo interativo. O projeto pode ser usado como base para aprimoramento ou personalização de aplicações front‑end.
+> 🔧 **Project**  
+x-menszpc is a static web application built with **HTML, CSS, and JavaScript**, demonstrating a simple interactive content interface. The project can be used as a base for improvement or customization of front-end applications.
 
-## Descrição
+## Description
 
-Este projeto contém uma página web estática com estrutura de layout e estilos personalizados. Ele foi desenvolvido para praticar habilidades de front‑end, incluindo organização de arquivos, aplicação de estilo e interação básica via JavaScript.
+This project contains a static web page with custom layout structure and styles. It was developed to practice front-end skills, including file organization, styling, and basic JavaScript interaction.
 
-O código fonte inclui:
-- Uma página principal (`index.html`)
-- Estilos de layout e aparência (`estilos.css`)
-- Scripts e recursos na pasta `src`
+The source code includes:
+- A main page (`index.html`)
+- Layout and appearance styles (`estilos.css`)
+- Scripts and resources inside the `src` folder
 
-## Tecnologias Utilizadas
+## Technologies Used
 
-- **HTML** — estruturação do conteúdo
-- **CSS** — estilização visual
-- **JavaScript** — comportamento interativo básico
+- **HTML** — content structure
+- **CSS** — visual styling
+- **JavaScript** — basic interactive behavior
 
-## Funcionalidades
+## Features
 
-Atualmente, o projeto apresenta:
-- Uma página web com conteúdo estático
-- Estilização visual com CSS
-- Possível interatividade via JavaScript (conforme estrutura atual)
+Currently, the project includes:
+- A static content web page
+- Visual styling with CSS
+- Possible interactivity via JavaScript (based on current structure)
 
-⚠️ **Não há backend nem integração com servidor.** A aplicação funciona apenas como página estática.
+⚠️ **There is no backend or server integration.** The application works only as a static page.
 
-## Como visualizar o projeto
+## Live Demo
 
 https://rafaeladamramos.github.io/x-menszpc/
 
-## Observações
+## Notes
 
-* Projeto criado com foco em prática de front‑end
-* Pode ser usado como referência para iniciantes em HTML, CSS e JavaScript
+- Project created with a focus on front-end practice
+- Can be used as a reference for beginners in HTML, CSS, and JavaScript
